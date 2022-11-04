@@ -3,4 +3,4 @@
 | Language Name | Creator | Major Uses | Popular Libraries | Complier/Interpreter Programming Language | Jobs and Salaries |
 | ------------- | ------- | ---------- | ----------------- | ----------------------------------------- | ----------------- |
 | Python | Guido van Rossum |  | | | | |
-| C      | Dennis Ritchie   |
+| C      | Dennis Ritchie |Operating Systems, 3D movies |
