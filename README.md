@@ -1,4 +1,4 @@
-# Somebody's Protfolio
+# Somebody's Portfolio
 
 Hello! My name is ConfirmedSomebody. My actual name is Jordan. I'm taking the 9th grade Intro Software Technology Hosted by Mr. Murry.
 
